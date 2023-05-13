@@ -4,8 +4,6 @@ Telegram bot for short finance
 ## About
 **(TGmainbot) is a bot library that allows you to get notification about events on https://app.shorter.finance/dashboard
 
-This is a functioning proof-of-concept project with known bugs. Feel free to fork, share and drop me a line.
-
 ## Features
 * Price alerts notifications for any cryptocurrency present on CoinGecko api
 * New pool,proposals,auction notifications on Shorter Finance
