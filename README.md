@@ -17,7 +17,7 @@ This is a functioning proof-of-concept project with known bugs. Feel free to for
 * Python 3+
 * Docker (optional)
 * Telegram (Desktop, Web or Mobile download: https://www.telegram.org/)
-* MongoDB
+* Google Cloud
 
 ## Quick Start
 
