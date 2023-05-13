@@ -42,11 +42,13 @@ Additionally Dozzle is provided so that you may view logs in your browser, simpl
 
 MongoDB saves data by path ~/docker/mongo
 
-How bot works demo 
+## How bot works demo 
+https://youtu.be/GUOb6azsIRg
 
 Demo bot address https://t.me/shfinancebot
 
-How to add bot to the group 
+## How to add bot to the group 
+https://youtu.be/bHiPh_FBvEI
 
 Manage notifications in chats in Profile menu (Default On)
 On - bot sends notifications to the groups
