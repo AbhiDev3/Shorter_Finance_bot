@@ -1,5 +1,5 @@
 # Telegram Short Finance Bot
-Telegram botfor short finance
+Telegram bot for short finance
 
 ## About
 **(TGmainbot) is a bot library that allows you to get notification about events on https://app.shorter.finance/dashboard
